@@ -1,0 +1,3 @@
+npm i firebase@6.0.2 --save | npm install firebase@6.0.2 --force --save
+npm i node-sass@4.12.0 --save
+npm i react-router-dom@5.0.0 --save
